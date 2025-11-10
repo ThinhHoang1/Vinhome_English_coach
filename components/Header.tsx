@@ -10,7 +10,7 @@ const Header: React.FC = () => {
         <img
           src={logoUrl}
           alt="Vinschool logo"
-          className="h-14 w-14 md:h-16 md:w-16 object-contain"
+          className="h-20 w-20 md:h-24 md:w-24 object-contain"
           loading="eager"
           decoding="async"
         />
