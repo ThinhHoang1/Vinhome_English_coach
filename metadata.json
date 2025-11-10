@@ -1,0 +1,7 @@
+{
+  "name": "Vinschool English Coach AI",
+  "description": "An AI English Tutor for Vietnamese elementary students to improve their English speaking and writing skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
